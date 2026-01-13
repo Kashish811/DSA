@@ -19,10 +19,10 @@ Each folder includes:
 
 | Folder Name | Description |
 |--------------|-------------|
-| 🔗 **[Single_Linked_List](./Single_Linked_List)** | Implementation of singly linked lists (insertion, deletion, reversal, concatenation, etc.) |
-| 🔁 **[Circular_Linked_List](./Circular_Linked_List)** | Implementation of circular linked lists |
-| ↔️ **[Doubly_Linked_List](./Doubly_Linked_List)** | Implementation of doubly linked lists |
-| 🌳 **[Binary_Search_Tree](./Binary_Search_Tree)** | Implementation of binary search trees with traversal and insertion |
+| 🔗 **[Single Linked List](./Single_Linked_List)** | Implementation of singly linked lists (insertion, deletion, reversal, concatenation, etc.) |
+| 🔁 **[Circular Linked List](./Circular_Linked_List)** | Implementation of circular linked lists |
+| ↔️ **[Doubly Linked List](./Doubly_Linked_List)** | Implementation of doubly linked lists |
+| 🌳 **[Binary Search Tree](./Binary_Search_Tree)** | Implementation of binary search trees with traversal and insertion |
 | 🧮 **[Graph](./Graph)** | Basic graph representation and traversal algorithms |
 | 🔍 **[Searching](./Searching)** | Linear search and binary search algorithms |
 | 🧩 **[Sorting](./Sorting)** | Sorting algorithms like Bubble, Insertion, Selection, and Quick sort |
