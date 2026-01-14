@@ -19,7 +19,7 @@ Each folder includes:
 
 | Folder Name | Description |
 |--------------|-------------|
-| 🔗 **[Single Linked List](./Single_Linked_List)** | Implementation of singly linked lists (insertion, deletion, reversal, concatenation, etc.) |
+| 🔗 **[Singly Linked List](./Singly_Linked_List)** | Implementation of singly linked lists (insertion, deletion, reversal, concatenation, etc.) |
 | 🔁 **[Circular Linked List](./Circular_Linked_List)** | Implementation of circular linked lists |
 | ↔️ **[Doubly Linked List](./Doubly_Linked_List)** | Implementation of doubly linked lists |
 | 🌳 **[Binary Search Tree](./Binary_Search_Tree)** | Implementation of binary search trees with traversal and insertion |
